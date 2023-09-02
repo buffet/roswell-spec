@@ -4,8 +4,8 @@ Release:        %{autorelease}
 Summary:        intended to be a launcher for a major lisp environment that just works
 
 License:        MIT
-URL:            https://github.com/roswell/roswell
-Source0:        %{url}/archive/refs/tags/v%{version}.tar.gz
+URL:            https://roswell.github.io/
+Source0:        https://github.com/roswell/roswell/archive/refs/tags/v%{version}.tar.gz
 
 BuildRequires:  automake
 BuildRequires:  coreutils
